@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pika4ndy :smiley
+- 👋 Hi, I’m @Pika4ndy :smiley:
 - 👀 I’m interested in Physics, Mathematics, and Programmation
 - 🌱 I’m currently learning Web Progamming
 - 📫 How to reach me :
