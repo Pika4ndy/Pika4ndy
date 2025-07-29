@@ -1,6 +1,4 @@
-Hi ! My name's Pika4ndy, alias Andy. I'm a web developer, a python developer and a student. I've some projects but I never finish them.
+Hi ! My name's Pika4ndy. I'm a web developer, a python developer and a student. I've some projects but I never finish them.
 
-**Hope you'll understand me**
-
-Twitter :  [@AndyMahery](https://twitter.com/AndyMahery)
-
+It's been a while, isn't it ?
+I'm trying to come back to coding.
