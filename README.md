@@ -1,4 +1,1 @@
-Hi ! My name's Pika4ndy. I'm a web developer, a python developer and a student. I've some projects but I never finish them.
-
-It's been a while, isn't it ?
-I'm trying to come back to coding.
+Ideas link : https://github.com/copilot/share/c8654082-4b60-8c30-8911-864d80e7413e
