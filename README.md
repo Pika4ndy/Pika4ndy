@@ -1,4 +1,3 @@
-Hi ! My name's Pika4ndy. I'm a web developer, a python developer and a student. I've some projects but I never finish them.
+Hi ! My name's Pika4ndy. I'm a web developer, a python developer and a student. I've so many projects, I hope I can finish all of them.
 
-It's been a while, isn't it ?
-I'm trying to come back to coding.
+I will update this profile README soon🙃
